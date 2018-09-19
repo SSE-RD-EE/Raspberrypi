@@ -10,3 +10,5 @@ void main()
 	RD2=1;
 	while(1);
 }
+
+end
