@@ -1,4 +1,4 @@
-#include<pic.h>
+#include<pic.h>  //头文件
 //#define uchar
 __CONFIG(0x3B31);
 void main()
